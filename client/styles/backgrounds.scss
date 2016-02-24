@@ -1,0 +1,67 @@
+.story-cover {
+	background-image: url("http://i.ftimg.net/picture/3/000057903_piclink.jpg");
+	}
+
+.section-2 
+	.section-cover {
+	background-image: url("http://i.ftimg.net/picture/1/000057901_piclink.jpg");
+	}
+
+.section-3 
+	.section-cover {
+	background-image: url("http://i.ftimg.net/picture/5/000057905_piclink.jpg");}
+
+
+.story-footer {
+	background-image: url("http://i.ftimg.net/picture/7/000057907_piclink.jpg");
+}
+.credits {
+	background-image: url("http://i.ftimg.net/picture/7/000057907_piclink.jpg");
+	}
+
+// Background image shown on 
+@media only screen and (max-width: 768px) {
+	.story-cover {
+		background-image: url("http://i.ftimg.net/picture/4/000057904_piclink.jpg");
+		}
+
+	.section-2 
+		.section-cover {
+		background-image: url("http://i.ftimg.net/picture/0/000057900_piclink.jpg");
+		}
+
+	.section-3 
+		.section-cover {
+		background-image: url("http://i.ftimg.net/picture/6/000057906_piclink.jpg");}
+
+
+	.story-footer {
+		background-image: url("http://i.ftimg.net/picture/8/000057908_piclink.jpg");
+	}
+	.credits {
+		background-image: url("http://i.ftimg.net/picture/8/000057908_piclink.jpg");
+		}
+}
+
+@media only screen and (max-width: 736px) {
+	.story-cover {
+		background-image: url("http://i.ftimg.net/picture/4/000057904_piclink.jpg")
+		}
+
+	.section-2 
+		.section-cover {
+			background-image: url("http://i.ftimg.net/picture/2/000057902_piclink.jpg");
+		}
+
+	.section-3 
+		.section-cover {
+			background-image: url("http://i.ftimg.net/picture/6/000057906_piclink.jpg");}
+
+
+	.story-footer {
+		background-image: url("http://i.ftimg.net/picture/8/000057908_piclink.jpg");
+	}
+	.credits {
+			background-image: url("http://i.ftimg.net/picture/8/000057908_piclink.jpg");
+		}
+}
